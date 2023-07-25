@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/yipeizhun</title>
+    <defs>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <circle id="path-2" cx="16" cy="16" r="16"></circle>
+        <filter x="-7.8%" y="-7.8%" width="115.6%" height="115.6%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="2" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.988235294   0 0 0 0 0.988235294   0 0 0 0 0.992156863  0 0 0 0.301692936 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <polygon id="path-4" points="26.1428747 16.0420888 27.532876 17.4801069 18.540131 26.1725757 13.1214076 20.6074548 14.5543431 19.2122144 18.582 23.35"></polygon>
+        <filter x="-20.8%" y="-29.6%" width="141.6%" height="159.2%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.199219739   0 0 0 0 0.515875333   0 0 0 0 0.382993075  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="icon/yipeizhun" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-3" transform="translate(4.000000, 4.000000)">
+            <path d="M27,25.6989783 C27,19.0240016 22.0751322,14.7052109 16,14.7052109 C9.92486775,14.7052109 5,19.0240016 5,25.6989783 C5,32.3739551 27,32.3739551 27,25.6989783 Z" id="椭圆形" fill="#69D8C6" filter="url(#filter-1)"></path>
+            <g id="椭圆形">
+                <use fill-opacity="0.502632621" fill="#266B60" fill-rule="evenodd" xlink:href="#path-2"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+            </g>
+        </g>
+        <g id="路径-2" fill-rule="nonzero">
+            <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+            <use fill="#FFFFFF" xlink:href="#path-4"></use>
+        </g>
+    </g>
+</svg>

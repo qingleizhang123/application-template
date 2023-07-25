@@ -1,0 +1,11 @@
+{
+  "serverAPIBaseUrl": "http://localhost:44351",
+  "protocolAPIUrl": "http://localhost:5000",
+  "subStationName": "/",
+  "apps": [
+    {
+      "name": "AorticDissection"
+    }
+  ],
+  "startInMicro": false
+}

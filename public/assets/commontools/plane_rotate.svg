@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/plane_rotate</title>
+    <g id="icon/plane_rotate" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M12.1210776,26.7230008 C13.9503831,28.736105 16.5895731,30 19.5239616,30 C24.0076024,30 27.8020507,27.0492161 29.0712674,22.9836873 M27.1577679,13.5401849 C25.3234421,11.3746647 22.5842369,10 19.5239616,10 C15.0674825,10 11.2918711,12.9151408 10,16.9425495" id="形状" stroke="#FFFFFF"></path>
+        <polygon id="矩形" fill="#FFFFFF" transform="translate(9.500000, 17.000000) scale(-1, -1) rotate(45.000000) translate(-9.500000, -17.000000) " points="7.5 14.5 11.5 17 7.5 19.5"></polygon>
+        <polygon id="矩形" fill="#FFFFFF" transform="translate(29.500000, 24.000000) rotate(45.000000) translate(-29.500000, -24.000000) " points="27.5 21.5 31.5 24 27.5 26.5"></polygon>
+        <rect id="矩形" stroke="#FFFFFF" x="16.5" y="16.5" width="7" height="7"></rect>
+    </g>
+</svg>

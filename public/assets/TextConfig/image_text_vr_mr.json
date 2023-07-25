@@ -1,0 +1,104 @@
+{
+	"TopLeft": [],
+	"TopRight": [],
+	"BottomLeft": [],
+	"BottomRight": [
+		{
+			"item": [
+				{
+					"tag": "00731001",
+					"name": "Scale",
+					"isDisabled": false,
+					"fontFamily": "MicrosoftYaHei",
+					"fontSize": "14",
+					"foregroundColor": "255,255,255,255",
+					"backgroundColor": "0,255,255,255",
+					"format": "Zoom:{0:0.00}",
+					"formatType": "Double",
+					"isReadOnly": true
+				}
+			]
+		},
+		{
+			"item": [
+				{
+					"tag": "00732000",
+					"name": "FusionWindowLWidth_0",
+					"isDisabled": false,
+					"fontFamily": "MicrosoftYaHei",
+					"fontSize": "14",
+					"foregroundColor": "255,255,255,255",
+					"backgroundColor": "0,255,255,255",
+					"format": "WW:{0:0}",
+					"formatType": "Double",
+					"isReadOnly": false
+				},
+				{
+					"tag": "00732005",
+					"name": "FusionWindowLCenter_0",
+					"isDisabled": false,
+					"fontFamily": "MicrosoftYaHei",
+					"fontSize": "14",
+					"foregroundColor": "255,255,255,255",
+					"backgroundColor": "0,255,255,255",
+					"format": "/WL:{0:0}",
+					"formatType": "Double",
+					"isReadOnly": false
+				}
+			]
+		},
+		{
+			"item": [
+				{
+					"tag": "00732001",
+					"name": "FusionWindowLWidth_1",
+					"isDisabled": false,
+					"fontFamily": "MicrosoftYaHei",
+					"fontSize": "14",
+					"foregroundColor": "0,0,0,0",
+					"backgroundColor": "0,255,255,255",
+					"format": "{}",
+					"formatType": "Double",
+					"isReadOnly": true
+				}
+			]
+		},
+		{
+			"item": [
+				{
+					"tag": "00732006",
+					"name": "FusionWindowLCenter_1",
+					"isDisabled": false,
+					"fontFamily": "MicrosoftYaHei",
+					"fontSize": "14",
+					"foregroundColor": "0,0,0,0",
+					"backgroundColor": "0,255,255,255",
+					"format": "{}",
+					"formatType": "Double",
+					"isReadOnly": true
+				}
+			]
+		},
+		{
+			"item": [
+				{
+					"tag": "00732001",
+					"name": "FusionWindowLWidth_2",
+					"isDisabled": false,
+					"fontFamily": "MicrosoftYaHei",
+					"fontSize": "14",
+					"foregroundColor": "0,0,0,0",
+					"backgroundColor": "0,255,255,255",
+					"format": "{}",
+					"formatType": "Double",
+					"isReadOnly": true
+				}
+			]
+		}
+	],
+	"Top": [],
+	"Left": [],
+	"Right": [],
+	"Bottom": [],
+	"Center": []
+}

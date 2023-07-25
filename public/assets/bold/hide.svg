@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/yincang</title>
+    <g id="icon/yincang" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M20.0048801,20.206597 C24.1294478,20.206597 27.8053812,18.2857653 30.186938,15.2898443 L31.7551147,16.5312741 C29.0072142,19.9893351 24.7649818,22.206597 20.0048801,22.206597 C15.094795,22.206597 10.7357279,19.847409 7.9993805,16.2007348 L9.59860174,14.999501 C11.9700088,18.1610981 15.7485685,20.206597 20.0048801,20.206597 Z" id="形状结合" fill="#C9D3E6" fill-rule="nonzero"></path>
+        <rect id="矩形" stroke="#C9D3E6" fill="#D8D8D8" transform="translate(28.527766, 20.937343) rotate(144.000000) translate(-28.527766, -20.937343) " x="28.0277662" y="18.9373434" width="1" height="4"></rect>
+        <rect id="矩形" stroke="#C9D3E6" fill="#D8D8D8" transform="translate(20.004880, 23.706597) rotate(180.000000) translate(-20.004880, -23.706597) " x="19.5048801" y="21.706597" width="1" height="4"></rect>
+        <rect id="矩形" stroke="#C9D3E6" fill="#D8D8D8" transform="translate(11.481994, 20.937343) rotate(216.000000) translate(-11.481994, -20.937343) " x="10.9819939" y="18.9373434" width="1" height="4"></rect>
+    </g>
+</svg>

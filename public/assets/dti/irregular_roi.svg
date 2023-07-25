@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/buguizeganxingququ</title>
+    <defs>
+        <radialGradient cx="55.3258515%" cy="19.3474565%" fx="55.3258515%" fy="19.3474565%" r="89.4785824%" gradientTransform="translate(0.553259,0.193475),scale(0.843082,1.000000),rotate(79.798435),translate(-0.553259,-0.193475)" id="radialGradient-1">
+            <stop stop-color="#F1EAE8" stop-opacity="0.304535552" offset="0%"></stop>
+            <stop stop-color="#EAA358" offset="100%"></stop>
+        </radialGradient>
+        <path d="M11.1007153,2.30123174 C13.3979264,0.456868387 18.3323198,-0.344652201 25.9056547,5.54306913 C33.4789896,11.4307905 36.4074476,17.3458611 33.4789896,23.9107067 C30.5505317,30.4755522 23.4870254,30.4550854 21.3039464,29.8799179 C19.1208675,29.3047504 15.4114231,28.7354507 11.2985347,29.3076843 C7.18564625,29.8799179 3.44674168,29.8799179 1.2212228,26.5394437 C-1.00429609,23.1989695 0.129062526,19.892076 2.09274812,17.1682703 C4.0564337,14.4444647 5.45652327,14.0090609 6.39339685,10.4580906 C7.33027044,6.90712038 8.80350422,4.14559509 11.1007153,2.30123174 Z" id="path-2"></path>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-4.3%" y="-5.1%" width="108.7%" height="110.3%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="1" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="-1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.921568627   0 0 0 0 0.560784314   0 0 0 0 0.2  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="72.4718384%" y1="25.2858288%" x2="21.6173971%" y2="84.3682249%" id="linearGradient-5">
+            <stop stop-color="#624F3E" stop-opacity="0.876002172" offset="0%"></stop>
+            <stop stop-color="#433E39" offset="100%"></stop>
+        </linearGradient>
+        <path d="M12.2121327,5.30625254 C14.1206669,3.43730585 17.7108278,2.90424262 23.3953949,7.09652628 C29.0799621,11.2888099 33.2863452,17.0526316 30.5480794,22.607489 C27.8098137,28.1623463 22.3610261,27.6015032 20.5722904,27.1157901 C18.7835546,26.6300771 15.7441704,26.1493192 12.3742187,26.6325546 C9.00426698,27.1157901 5.34607815,27.4736842 4.11723461,24.8273848 C2.88839107,22.1810853 3.45632362,20.607297 5.34607815,18.5072015 C7.23583267,16.4071061 8.62931701,14.3950713 9.46286129,11.3404854 C10.2964056,8.28589951 10.3035984,7.17519923 12.2121327,5.30625254 Z" id="path-6"></path>
+        <filter x="0.0%" y="-0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-7">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-10.7%" y="-12.8%" width="121.5%" height="125.5%" filterUnits="objectBoundingBox" id="filter-8">
+            <feGaussianBlur stdDeviation="2" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="-2" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.141176471   0 0 0 0 0.160784314   0 0 0 0 0.188235294  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="71.3586447%" y2="94.9605518%" id="linearGradient-9">
+            <stop stop-color="#F09D69" offset="0%"></stop>
+            <stop stop-color="#EE6516" offset="100%"></stop>
+        </linearGradient>
+        <path d="M13.5863707,15.2819816 C13.1331183,15.0190994 12.7452227,15.2056783 11.9848448,15.5448638 C11.2244669,15.8840493 11.0092733,15.4176759 10.2812787,15.8408838 C9.55328418,16.2640916 9.64336339,17.7456869 9.10766958,18.0596142 C8.57197577,18.3735414 8.25785279,19.5923713 8.54541309,20.3548973 C8.83297339,21.1174233 9.28493477,22.3923021 10.2812787,22.3923021 C11.2776227,22.3923021 11.6791141,23.6842105 12.6327424,23.6842105 C13.5863707,23.6842105 13.9822707,22.7032832 14.8909139,22.0881316 C15.7995572,21.4729801 15.8075729,22.0680511 16.3574708,21.5927372 C16.9073688,21.1174233 16.1067974,20.5052911 16.3574708,19.7493331 C16.6081443,18.9933752 16.9627721,19.2780708 16.9627721,18.3735414 C16.9627721,17.469012 16.3805761,16.9856694 15.9694158,16.5644826 C15.5582555,16.1432958 15.0542522,15.8408838 14.6716364,15.8408838 C14.2890205,15.8408838 14.0396232,15.5448638 13.5863707,15.2819816 Z" id="path-10"></path>
+        <filter x="-46.9%" y="-23.5%" width="193.8%" height="193.8%" filterUnits="objectBoundingBox" id="filter-11">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-82.1%" y="-58.6%" width="264.2%" height="264.2%" filterUnits="objectBoundingBox" id="filter-12">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.348704352   0 0 0 0 0.100772027   0 0 0 0 0.0306670243  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-64.5%" y="-41.0%" width="229.0%" height="229.0%" filterUnits="objectBoundingBox" id="filter-13">
+            <feGaussianBlur stdDeviation="1" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="-1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.850980392   0 0 0 0 0.141176471   0 0 0 0 0.164705882  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="71.4608645%" y1="44.7621289%" x2="75.8423353%" y2="54.838192%" id="linearGradient-14">
+            <stop stop-color="#EEAB39" offset="0%"></stop>
+            <stop stop-color="#D17517" offset="100%"></stop>
+        </linearGradient>
+        <path d="M19.901746,18 C19.7360264,17.7232673 19.4237304,17.4975932 18.9648579,17.3229778 C18.2765492,17.0610547 17.9101406,16.796535 17.9101406,16.1140827 C17.9101406,15.4316304 21.8303181,13.2631579 23.5315212,13.2631579 C25.2327244,13.2631579 26.6442849,14.0556137 27.6129795,15.0848482 C28.2587759,15.7710045 28.4690616,16.5411875 28.2438366,17.3953972 C27.5570968,17.2276018 26.7581884,17.2276018 25.8471115,17.3953972 C24.4804962,17.6470904 24.3715603,17.7708639 23.1392717,17.8849599 C21.906983,17.9990559 20.9480822,17.3953972 20.4788498,17.3953972 C20.1660281,17.3953972 19.9736602,17.5969315 19.901746,18 Z" id="path-15"></path>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-16">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-14.4%" y="-31.7%" width="128.8%" height="163.3%" filterUnits="objectBoundingBox" id="filter-17">
+            <feGaussianBlur stdDeviation="1" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="-1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.698039216   0 0 0 0 0.37254902   0 0 0 0 0.0705882353  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-18">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="32.2140133%"></stop>
+            <stop stop-color="#FFF1E8" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-19" x="13.1732985" y="0" width="3.78947368" height="3.78947368"></rect>
+        <filter x="-105.6%" y="-52.8%" width="311.1%" height="311.1%" filterUnits="objectBoundingBox" id="filter-20">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.106962342   0 0 0 0 0.060257806   0 0 0 0 0.0320951993  0 0 0 0.6 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-21" x="0.857508986" y="25.5789474" width="3.78947368" height="3.78947368"></rect>
+        <filter x="-105.6%" y="-52.8%" width="311.1%" height="311.1%" filterUnits="objectBoundingBox" id="filter-22">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.106962342   0 0 0 0 0.060257806   0 0 0 0 0.0320951993  0 0 0 0.6 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-23" x="32.1206669" y="15.1578947" width="3.78947368" height="3.78947368"></rect>
+        <filter x="-105.6%" y="-52.8%" width="311.1%" height="311.1%" filterUnits="objectBoundingBox" id="filter-24">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.106962342   0 0 0 0 0.060257806   0 0 0 0 0.0320951993  0 0 0 0.6 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="icon/buguizeganxingququ" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组" transform="translate(2.000000, 5.000000)">
+            <g id="路径-32" filter="url(#filter-3)">
+                <use fill="url(#radialGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-2"></use>
+            </g>
+            <g id="路径-32" filter="url(#filter-7)">
+                <use fill="url(#linearGradient-5)" fill-rule="evenodd" xlink:href="#path-6"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-6"></use>
+            </g>
+            <g id="路径-38备份" filter="url(#filter-11)">
+                <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-10"></use>
+                <use fill-opacity="0.8" fill="url(#linearGradient-9)" fill-rule="evenodd" xlink:href="#path-10"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-13)" xlink:href="#path-10"></use>
+            </g>
+            <g id="路径-48" filter="url(#filter-16)">
+                <use fill="url(#linearGradient-14)" fill-rule="evenodd" xlink:href="#path-15"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-17)" xlink:href="#path-15"></use>
+            </g>
+            <g id="矩形">
+                <use fill="black" fill-opacity="1" filter="url(#filter-20)" xlink:href="#path-19"></use>
+                <use fill-opacity="0.85" fill="url(#linearGradient-18)" fill-rule="evenodd" xlink:href="#path-19"></use>
+            </g>
+            <g id="矩形备份">
+                <use fill="black" fill-opacity="1" filter="url(#filter-22)" xlink:href="#path-21"></use>
+                <use fill-opacity="0.85" fill="url(#linearGradient-18)" fill-rule="evenodd" xlink:href="#path-21"></use>
+            </g>
+            <g id="矩形备份-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-24)" xlink:href="#path-23"></use>
+                <use fill-opacity="0.85" fill="url(#linearGradient-18)" fill-rule="evenodd" xlink:href="#path-23"></use>
+            </g>
+        </g>
+    </g>
+</svg>

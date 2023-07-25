@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/jiaoji</title>
+    <g id="icon/jiaoji" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="椭圆形" stroke-opacity="0.5" stroke="#C9D3E6" stroke-width="2" fill-opacity="0.4" fill="#C9D3E6" cx="24" cy="16" r="10"></circle>
+        <circle id="椭圆形备份" stroke-opacity="0.5" stroke="#C9D3E6" stroke-width="2" fill-opacity="0.4" fill="#C9D3E6" cx="16" cy="24" r="10"></circle>
+        <line x1="6" y1="23" x2="17" y2="34.1099052" id="路径-3" stroke-opacity="0.4" stroke="#C9D3E6" stroke-width="2"></line>
+        <line x1="7" y1="19" x2="20.9766388" y2="33" id="路径-3备份" stroke-opacity="0.4" stroke="#C9D3E6" stroke-width="2"></line>
+        <line x1="10" y1="17" x2="24.1303217" y2="31.1539397" id="路径-3备份-2" stroke-opacity="0.4" stroke="#C9D3E6" stroke-width="2"></line>
+        <path d="M16,13 C22.0751322,13 27,17.9248678 27,24 C27,24.9218484 26.8866029,25.8172115 26.6729967,26.6729012 C25.8172115,26.8866029 24.9218484,27 24,27 C17.9248678,27 13,22.0751322 13,16 C13,15.0781516 13.1133971,14.1827885 13.3270033,13.3270988 C14.1827885,13.1133971 15.0781516,13 16,13 Z" id="形状结合" fill="#C9D3E6"></path>
+    </g>
+</svg>
